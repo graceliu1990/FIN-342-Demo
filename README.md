@@ -1,10 +1,10 @@
 # FIN-342-Demo
 This serves to overview the basics of GitHub, and expose the class to GitHub functionality.
 
-Specifically, we will be looking at how to fork repositories (branch them), edit them, and then push changes to the 
-master repository (branch). 
+Specifically, we will be looking at how to fork repositories (branch them), edit them, and then push changes to the master repository (branch). 
 
 To do this, students will fork the master branch and comment in the following information:
+
     # Program (i.e. BBA, MBA)
     # uniquename
     # Favorite class in college (i.e. COMPLXSYS 391)
