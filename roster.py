@@ -48,6 +48,10 @@
 # Jacob Kreinik
 
 # Grace Liu
+# BBA and Financial Math
+# graceliu
+# FIN342
+# Lobster rolls
 
 # Jason Miller
 
